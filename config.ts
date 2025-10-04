@@ -1,0 +1,3 @@
+interface config {
+    value: string;
+}
