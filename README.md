@@ -9,3 +9,7 @@ Add type hints
 ## Update
 
 Fix memory leak
+
+## Update
+
+Update environment variables
