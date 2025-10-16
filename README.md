@@ -13,3 +13,7 @@ Fix memory leak
 ## Update
 
 Update environment variables
+
+## Update
+
+Add error handling
