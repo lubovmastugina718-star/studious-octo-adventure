@@ -21,3 +21,7 @@ Add error handling
 ## Update
 
 Fix edge case
+
+## Update
+
+Update environment variables
