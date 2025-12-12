@@ -29,3 +29,7 @@ Update environment variables
 ## Update
 
 Update config files
+
+## Update
+
+Update package.json
