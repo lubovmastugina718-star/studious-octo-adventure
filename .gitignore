@@ -3,3 +3,5 @@ node_modules/
 *.log
 
 # Fix memory allocation
+
+# Add error recovery
