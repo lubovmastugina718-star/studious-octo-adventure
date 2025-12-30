@@ -33,3 +33,7 @@ Update config files
 ## Update
 
 Update package.json
+
+## Update
+
+Add retry logic
