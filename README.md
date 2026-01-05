@@ -37,3 +37,7 @@ Update package.json
 ## Update
 
 Add retry logic
+
+## Update
+
+Update dependencies version
