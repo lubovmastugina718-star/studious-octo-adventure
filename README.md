@@ -61,3 +61,5 @@ Add logging
 <!-- Update documentation -->
 
 <!-- Refactor code structure -->
+
+<!-- Refactor code structure -->
