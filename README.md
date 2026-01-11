@@ -41,3 +41,7 @@ Add retry logic
 ## Update
 
 Update dependencies version
+
+## Update
+
+Add new test case
