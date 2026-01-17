@@ -45,3 +45,7 @@ Update dependencies version
 ## Update
 
 Add new test case
+
+## Update
+
+Fix compatibility issue
