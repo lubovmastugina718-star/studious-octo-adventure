@@ -49,3 +49,7 @@ Add new test case
 ## Update
 
 Fix compatibility issue
+
+## Update
+
+Add logging
